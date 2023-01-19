@@ -1,0 +1,70 @@
+body{
+    background-image: url("https://as2.ftcdn.net/v2/jpg/02/09/96/17/1000_F_209961771_SZ9T3ZQ3MLPaI1xv38vaDCkeetkjmao4.jpg");
+}
+.card {
+    width: 30%;
+    margin-bottom: 50px;
+}
+
+.name {
+    padding: 10px;
+    font-size: xx-large;
+    color: white;
+}
+
+.product {
+    position: relative;
+    left: 12%;
+    top: 5vh;
+}
+
+.search {
+    width: 50%;
+}
+
+.icon {
+    color: black;
+    font-size: xx-large;
+    font-weight: 800;
+}
+
+.navbar{
+    background-image: url("https://img.freepik.com/free-vector/abstract-colorful-technology-dotted-wave-background_1035-17450.jpg?w=360");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon::after {
+    font-size: small;
+    position: relative;
+    top: 100px;
+    left: -12%;
+}
+
+.cart-value {
+    font-size: small;
+    position: relative;
+    top: 100px;
+    left: -12%;
+}
+
+.button {
+    background-color: darkblue;
+    color: white;
+}
+
+.card {
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-image: url("https://img.freepik.com/free-vector/abstract-colorful-technology-dotted-wave-background_1035-17450.jpg?w=360");
+}
+
+.card-img-top{
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.cart{
+    background-color: white;
+    font-weight: 900;
+}
